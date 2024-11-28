@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Tuncer+Baha+Sezerer!;Elektrik+ve+Elektronik+Mühendisiyim!;Drone+ve+IoT+Teknolojileri+Geliştiriyorum!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Tuncer+Baha+Sezerer!;Elektrik+ve+Elektronik+Mühendisiyim!;Teknoloji+ve+Ar-Ge+Tutkunuyum!" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,12 +7,20 @@
 ### 🌟 Hakkımda
 - 🎓 **Giresun Üniversitesi** Elektrik ve Elektronik Mühendisliği mezunuyum.  
 - 🔭 Şu anda **Ar-Ge** projelerinde çalışıyorum.  
-- 🚀 İlgi Alanlarım: **PCB Design, Donanım Tasarım, Drone teknolojileri, Derin Öğrenme, Görüntü İşleme, Ses İşleme ve Python**.  
+- 🚀 İlgi Alanlarım: **PCB Design, Donanım Tasarım, Derin Öğrenme, Görüntü İşleme, Ses İşleme ve Python**.  
 - 🌱 Kendimi **elektronik alanda PCB tasarımı ve güç elektroniği**, yazılım alanında ise **Python dili** üzerinde geliştiriyorum.  
-- 🏆 **Teknofest 2024**'te İnsanlık Yararına Teknoloji kategorisinde takım kaptanlığı yaptığım projede Yarı-Final ödülünü kazandım.  
-- 🏆 Tübitak 2209-A tarafından desteklenen bir **drone teknolojisi projesi** yürütücüsüyüm.  
+- 🏆 Teknofest 2025 Sirius takımının kaptanlığını yapıyorum. 
 
 ---
+### 🏆 Katıldığım Yarışmalar ve Desteklenen Projeler
+- **Teknofest 2024**  
+  - **Kategori:** İnsanlık Yararına Teknoloji  
+  - **Ödül:** Yarı-Final  
+  - **Proje:** Takım kaptanlığını üstlendiğim proje, afet bölgelerinde drone teknolojisi ile insan tespiti yapan bir sistem geliştirmeyi amaçladı.
+  
+- **Tübitak 2209-A**  
+  - **Desteklenen Proje:** Drone teknolojileri üzerine çalıştığım proje, Tübitak 2209-A desteği ile yürütülmektedir. Proje, afet bölgesinde etkin ve hızlı arama-kurtarma operasyonlarını gerçekleştirebilmek için drone teknolojilerini kullanmaktadır.
+
 
 ### 🚀 Öne Çıkan Projelerim
 - 🌟 [**IoT Tabanlı Akıllı Sayaç Sistemi**](#)  
@@ -74,6 +82,3 @@
 ---
 
 [🇹🇷 Türkçe](#) | [🇺🇸 English](#)
-
-
-
